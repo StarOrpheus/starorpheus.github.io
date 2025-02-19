@@ -1,3 +1,5 @@
 title: "Het Geheim van de Blauwe Maan"
 description: "Het Geheim van de Blauwe Maan boek om te Nerderlands A1-A2 oefenen"
 theme: minima
+
+permalink: /:path/
